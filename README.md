@@ -14,4 +14,4 @@ This was generated to spare my trackpad finger from downloading more than 100 si
 
 ## How?
 1. Create an API key: https://app.hellosign.com/home/myAccount?current_tab=api
-2. Plase the API key to the file, run, and enjoy the ride. 
+2. Place the API key to the file, run, and enjoy the ride. 
